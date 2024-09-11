@@ -1,0 +1,8 @@
+body {
+    font-family: "PT Serif", sans-serif;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #ff4c68);
+}
+
